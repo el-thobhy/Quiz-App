@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz kuy</string>
+    <string name="text_main">Ini adalah aplikasi quiz sederhana, yang digunakan untuk melihat kemampuan peserta didik ataupun dapat digunakan untuk test masuk perusahaan</string>
+    <string name="play">Play</string>
+    <string name="text_prepare">Silahkan Masukkan Nama Anda</string>
+    <string name="start">Start</string>
+    <string name="field_your_nickname">field your nickname</string>
+    <string name="silahkan_masukkan_nama_anda">Silahkan Masukkan Nama Anda</string>
+    <string name="pertanyaan">ini adalah pertanyaan nya seperti ini</string>
+    <string name="option">A</string>
+    <string name="ini_jawabannya">ini jawabannya</string>
+    <string name="default_value">- / -</string>
+    <string name="default_text">-</string>
+    <string name="your_score">Your Score</string>
+    <string name="done">Done</string>
+</resources>
